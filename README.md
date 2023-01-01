@@ -2,7 +2,7 @@
 
 Practice for FE development
 
-Using HTML & CSS to build the web page
+Using HTML & CSS to build the web page (RWD)
 
 Link: https://codepen.io/khlauaj/pen/LYyXEBV
 
